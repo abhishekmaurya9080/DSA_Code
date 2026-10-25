@@ -11,6 +11,7 @@
 | ------- |
 | [0075-sort-colors](https://github.com/abhishekmaurya9080/DSA_Code/tree/master/0075-sort-colors) |
 | [0268-missing-number](https://github.com/abhishekmaurya9080/DSA_Code/tree/master/0268-missing-number) |
+| [1254-number-of-closed-islands](https://github.com/abhishekmaurya9080/DSA_Code/tree/master/1254-number-of-closed-islands) |
 ## Two Pointers
 |  |
 | ------- |
@@ -40,4 +41,20 @@
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/abhishekmaurya9080/DSA_Code/tree/master/0268-missing-number) |
+## Depth-First Search
+|  |
+| ------- |
+| [1254-number-of-closed-islands](https://github.com/abhishekmaurya9080/DSA_Code/tree/master/1254-number-of-closed-islands) |
+## Breadth-First Search
+|  |
+| ------- |
+| [1254-number-of-closed-islands](https://github.com/abhishekmaurya9080/DSA_Code/tree/master/1254-number-of-closed-islands) |
+## Union-Find
+|  |
+| ------- |
+| [1254-number-of-closed-islands](https://github.com/abhishekmaurya9080/DSA_Code/tree/master/1254-number-of-closed-islands) |
+## Matrix
+|  |
+| ------- |
+| [1254-number-of-closed-islands](https://github.com/abhishekmaurya9080/DSA_Code/tree/master/1254-number-of-closed-islands) |
 <!---LeetCode Topics End-->
