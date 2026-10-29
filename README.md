@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/abhishekmaurya9080/DSA_Code/tree/master/0268-missing-number) |
+| [0877-stone-game](https://github.com/abhishekmaurya9080/DSA_Code/tree/master/0877-stone-game) |
 | [2235-add-two-integers](https://github.com/abhishekmaurya9080/DSA_Code/tree/master/2235-add-two-integers) |
 | [2240-number-of-ways-to-buy-pens-and-pencils](https://github.com/abhishekmaurya9080/DSA_Code/tree/master/2240-number-of-ways-to-buy-pens-and-pencils) |
 ## Array
@@ -12,6 +13,7 @@
 | ------- |
 | [0075-sort-colors](https://github.com/abhishekmaurya9080/DSA_Code/tree/master/0075-sort-colors) |
 | [0268-missing-number](https://github.com/abhishekmaurya9080/DSA_Code/tree/master/0268-missing-number) |
+| [0877-stone-game](https://github.com/abhishekmaurya9080/DSA_Code/tree/master/0877-stone-game) |
 | [1254-number-of-closed-islands](https://github.com/abhishekmaurya9080/DSA_Code/tree/master/1254-number-of-closed-islands) |
 ## Two Pointers
 |  |
@@ -62,4 +64,20 @@
 |  |
 | ------- |
 | [2240-number-of-ways-to-buy-pens-and-pencils](https://github.com/abhishekmaurya9080/DSA_Code/tree/master/2240-number-of-ways-to-buy-pens-and-pencils) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0877-stone-game](https://github.com/abhishekmaurya9080/DSA_Code/tree/master/0877-stone-game) |
+## Minimax
+|  |
+| ------- |
+| [0877-stone-game](https://github.com/abhishekmaurya9080/DSA_Code/tree/master/0877-stone-game) |
+## Game Theory
+|  |
+| ------- |
+| [0877-stone-game](https://github.com/abhishekmaurya9080/DSA_Code/tree/master/0877-stone-game) |
+## Zero-Sum Game
+|  |
+| ------- |
+| [0877-stone-game](https://github.com/abhishekmaurya9080/DSA_Code/tree/master/0877-stone-game) |
 <!---LeetCode Topics End-->
