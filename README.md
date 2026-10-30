@@ -15,6 +15,7 @@
 | [0268-missing-number](https://github.com/abhishekmaurya9080/DSA_Code/tree/master/0268-missing-number) |
 | [0877-stone-game](https://github.com/abhishekmaurya9080/DSA_Code/tree/master/0877-stone-game) |
 | [1254-number-of-closed-islands](https://github.com/abhishekmaurya9080/DSA_Code/tree/master/1254-number-of-closed-islands) |
+| [2942-find-words-containing-character](https://github.com/abhishekmaurya9080/DSA_Code/tree/master/2942-find-words-containing-character) |
 ## Two Pointers
 |  |
 | ------- |
@@ -80,4 +81,8 @@
 |  |
 | ------- |
 | [0877-stone-game](https://github.com/abhishekmaurya9080/DSA_Code/tree/master/0877-stone-game) |
+## String
+|  |
+| ------- |
+| [2942-find-words-containing-character](https://github.com/abhishekmaurya9080/DSA_Code/tree/master/2942-find-words-containing-character) |
 <!---LeetCode Topics End-->
